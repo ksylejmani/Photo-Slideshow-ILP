@@ -1,5 +1,8 @@
 from gurobipy import *
 import sys
+from gurobipy import GRB
+from ortools.linear_solver import pywraplp
+from ortools.sat.python import cp_model
 
 class PhotoSlideShow:
     def __init__(self,file_name):
@@ -82,9 +85,6 @@ class PhotoSlideShow:
         possible_slide_list=[key for key in self.possible_slides.keys()]
         for i in range(0,len(possible_slide_list)-1):
             for j in range(i+1,len(possible_slide_list)):
-                # Debug
-                if i==1 and j==9:
-                    print("Debug")
                 slide_1_photos=self.possible_slides[possible_slide_list[i]]
                 slide_2_photos=self.possible_slides[possible_slide_list[j]]
                 slide_1_tags=set()
@@ -105,16 +105,72 @@ class PhotoSlideShow:
 
     def transform_tuple(self, t:tuple)->tuple:
         """Transform tuple indeces"""
-        if(t[0]>t[1]):
-            print("OK")
         min_index=min(t)
         max_index=max(t)
         return (min_index,max_index)
 
-    def create_model(self):
-        m = Model('photo slide show')
-        # m.Params.WorkLimit = 30
+    def create_GORT_model(self):
+        """Google OR Tools model"""
+        solver=pywraplp.Solver.CreateSolver('BOP')
 
+        # Decision variables
+        z = {}
+        for i in range(self.N):
+            for j in range(self.N):
+                if i != j:
+                    z[(i, j)] = solver.BoolVar(name='z' + str(i)+ ',' + str(j))
+        
+        # Constraints
+        for sp in self.same_photos:
+            i = sp[0]
+            j = sp[1]
+            solver.Add(sum(sum(z[(a, b)] for b in range(self.N) 
+                if b != a and ((a == i and b == j) or (a == j or b == i))) 
+                for a in range(self.N)) <= 0, name='same photos')
+        
+        for i in range(self.N ):
+            solver.Add(sum(z[(i, j)] for j in range(self.N) if j != i) <= 1,
+                        name='one slide is placed after slide i')
+        
+        for j in range(self.N):
+            solver.Add(sum(z[(i, j)] for i in range(self.N) if j != i) <= 1,
+                        name='one slide is placed after slide j ')
+        
+        for i in range(self.N):
+            for j in range(self.N):
+                if i!=j:
+                    solver.Add(z[(i,j)]+z[(j,i)] <= 1, name='no two simetric transitions are allowed')
+        
+        for k in range(self.H):
+            s1=sum(z[(k,i)] for i in range(self.H) if i!=k)
+            s2=sum(z[(i,k)] for i in range(self.H) if i!=k)
+            solver.Add(s1+s2<= 2, name='each slide is used in at most one transition')
+        
+        solver.Maximize(sum(sum(z[(i, j)]* self.transition_interest[self.transform_tuple((i, j))] 
+                        for j in range(self.N) if j != i) for i in range(self.N)))
+        
+        # Sets a time limit of 10 seconds.
+        # solver.parameters.max_time_in_seconds = 30.0
+        solver.SetTimeLimit(2000)
+        solver.EnableOutput()
+        status=solver.Solve()
+
+        if status == pywraplp.Solver.OPTIMAL:
+            print('Solution:')
+            print('Objective value =', solver.Objective().Value())
+        else:
+            print('The problem does not have an optimal solution.')  
+        
+        for i in range(self.N):
+            for j in range(self.N):
+                if i != j:
+                    if z[(i, j)].solution_value()==1:
+                        print(z[(i, j)].name(), ' = ',  z[(i, j)].solution_value())        
+    
+    
+    def create_model(self):
+        m = gurobipy.Model('photo slide show')
+        m.setParam('WorkLimit', 3*10)
         # Decision variables
         z = {}
         for i in range(self.N):
@@ -138,88 +194,57 @@ class PhotoSlideShow:
             m.addConstr(quicksum(z[(i, j)] for i in range(self.N) if j != i) <= 1,
                         name='one slide is placed after slide j ')
         
-        # for k in range(self.H):
-        #     m.addConstr(quicksum(quicksum(z[(i, j)] 
-        #                 for j in range(self.N) if j != i and (i==k or j==k)) 
-        #                 for i in range(self.N))<= 2,
-        #                             name='each slide is used at most once')
-        for k in range(self.H):
-            m.addConstr(quicksum(quicksum(z[(i, j)]
-                        for j in range(self.H) if j != i and ((i==k and j!=k) or (i!=k or j==k))) 
-                        for i in range(self.H))<= 2,
-                                    name='each slide is used in at most one transition')
+        for i in range(self.N):
+            for j in range(self.N):
+                if i!=j:
+                    m.addConstr(z[(i,j)]+z[(j,i)] <= 1, name='no two simetric transitions are allowed')
 
+        for k in range(self.H):
+            s1=quicksum(z[(k,i)] for i in range(self.H) if i!=k)
+            s2=quicksum(z[(i,k)] for i in range(self.H) if i!=k)
+            m.addConstr(s1+s2<= 2, name='each slide is used in at most one transition')
+        
         m.update()
-        m.setObjective(quicksum(quicksum(z[(i, j)]* self.transition_interest[self.transform_tuple((i, j))]
+        m.Params.timeLimit = 20.0
+        m.setObjective(quicksum(quicksum(z[(i, j)]* self.transition_interest[self.transform_tuple((i, j))] 
                         for j in range(self.N) if j != i) for i in range(self.N)), sense=GRB.MAXIMIZE)
 
         return m
     
+    
     def solve_problem(self,m):
         m.optimize()
         m.printAttr('X')
-       
-
-        # Extract solution as a list of slides
-        slide_pair_queue=[]
-        for v in m.getVars():
-            if int(v.X):
-                slide_indecies=v.VarName[1:].split(',')
-                slide_pair_queue.append(tuple([int(i) for i in slide_indecies]))
-
-        # Test
-        slide_pair_queue_set=set()
-        for sp in slide_pair_queue:
-            slide_pair_queue_set.add(sp[0])
-            slide_pair_queue_set.add(sp[1])
-
-        slide_list=list()
-        current_slide1,current_slide2=slide_pair_queue.pop(0)
-        slide_list.append(current_slide1)
-        slide_list.append(current_slide2)
-        previous_slide1, previous_slide2=current_slide1,current_slide2
-        count_push_back=0
-        count_push_back_reset=False
-        while len(slide_pair_queue)>0:
-            current_slide_transition=slide_pair_queue.pop(0)
-            current_slide1,current_slide2=current_slide_transition
-            if len(slide_pair_queue)==0 and previous_slide2!=current_slide1:
-                slide_list.append(current_slide1)
-                slide_list.append(current_slide2)
-            elif previous_slide2==current_slide1 or count_push_back_reset:
-                if previous_slide2==current_slide1:
-                    slide_list.append(current_slide2)
-                else:
-                    slide_list.append(current_slide1)
-                    slide_list.append(current_slide2)
-                previous_slide1, previous_slide2=current_slide1,current_slide2
-                count_push_back=0
-                count_push_back_reset=False
-            elif count_push_back==len(slide_pair_queue):
-                count_push_back=0
-                count_push_back_reset=True
-                slide_pair_queue.append(current_slide_transition)
-            else:
-                slide_pair_queue.append(current_slide_transition)
-                count_push_back+=1
-                count_push_back_reset=False
-            if(slide_list[len(slide_list)-1]==73):
-                print("test")
-        objective_value=m.objVal
         
-        # Test2
-        if len(slide_list)==len(slide_pair_queue_set):
-            print("OK")
-        else:
-            print("NOT OK")
-        # Test2
-        slide_set=set(slide_list)
-        if len(slide_list)==len(slide_set):
-            print("Unique OK")
-        else:
-            print("Not unique")
-        return slide_list, objective_value
+        objective_value=int(m.objVal)
+        return objective_value
 
+    
+    def order_slide_transitions(self,slide_pair_queue:list):
+        i=0
+        while i <len(slide_pair_queue):
+            current_slide_transition=slide_pair_queue[i%len(slide_pair_queue)]
+            j=i+1
+            restart=False
+            while j<len(slide_pair_queue):
+                next_slide_transition=slide_pair_queue[j%len(slide_pair_queue)]
+                if current_slide_transition[1]==next_slide_transition[0] and j!=i+1:
+                    slide_pair_queue.pop(i%len(slide_pair_queue))
+                    slide_pair_queue.insert(j-1,current_slide_transition)
+                    restart=True
+                    break
+                elif current_slide_transition[0]==next_slide_transition[1]:
+                    slide_pair_queue.pop(j%len(slide_pair_queue))
+                    slide_pair_queue.insert(i,next_slide_transition)
+                    restart=True
+                    break
+                j+=1
+            if not restart:
+                i+=1
+            else:
+                i=0
+        return
+    
     def save_solution_to_file(self,slide_list:list,objective_value:float):
         solution_text=str(len(slide_list))+'\n'
         for s in slide_list:
@@ -232,7 +257,7 @@ class PhotoSlideShow:
         print("Num slides: {}".format(len(slide_list)))
         print(slide_list)
         print(solution_text)
-        output_file_name=file_name+'_solution_'+str(objective_value)+'.txt'
+        output_file_name=file_name[0:len(file_name)-4]+'_solution_'+str(objective_value)+'.txt'
         with open("Solutions\\"+output_file_name,'w') as f:
             f.write(solution_text)
 
@@ -250,11 +275,20 @@ if __name__=="__main__":
     else:
         file_name = arguments[1]
         ps=PhotoSlideShow(file_name)
+        
+        # Gurobi model
         model=ps.create_model()
-        slide_list, objective_value=ps.solve_problem(model)
-        ps.save_solution_to_file(slide_list,objective_value)
-    # file_name = "c_memorable_moments_20.txt"
+        objective_value=ps.solve_problem(model)
+        print("Objective value:: "+str(objective_value))
+        
+
+        # Googl OR Tools
+        # model=ps.create_GORT_model()
+
+
+    # file_name = "P50_H0_V50.txt"
     # ps=PhotoSlideShow(file_name)
     # model=ps.create_model()
-    # slide_list, objective_value=ps.solve_problem(model)
-    # ps.save_solution_to_file(slide_list,objective_value)
+    # objective_value=ps.solve_problem(model)
+    # print("Solution quality: "+str(objective_value))
+
