@@ -279,13 +279,13 @@ if __name__=="__main__":
         ps=PhotoSlideShow(file_name)
         
         # Gurobi model
-        model=ps.create_model()
-        objective_value=ps.solve_problem(model)
-        print("Objective value:: "+str(objective_value))
+        # model=ps.create_model()
+        # objective_value=ps.solve_problem(model)
+        # print("Objective value:: "+str(objective_value))
         
 
         # Googl OR Tools
-        # model=ps.create_GORT_model()
+        model=ps.create_GORT_model()
 
 
     # file_name = "P50_H0_V50.txt"
