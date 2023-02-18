@@ -4,6 +4,8 @@ from gurobipy import GRB
 from ortools.linear_solver import pywraplp
 from ortools.sat.python import cp_model
 
+# Subdomain name: psinstgenerator.erzen.tk
+
 class PhotoSlideShow:
     def __init__(self,file_name):
         self.photos = self.read_instance_from_file(file_name)
