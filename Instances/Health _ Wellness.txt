@@ -1,0 +1,87 @@
+86
+V 5 Granny Smith cucumber cuke zucchini
+V 5 zucchini courgette cucumber cuke broccoli
+V 5 ladybug ladybeetle lady beetle ladybird
+V 4 cleaver meat chopper frying
+H 3 strawberry pomegranate fig
+H 5 maze labyrinth brain coral komondor
+H 4 bathtub bathing tub bath
+H 3 necklace strawberry fig
+H 5 military uniform miniskirt mini torch
+H 5 stupa tope valley vale lakeside
+H 4 medicine chest cabinet pill
+V 4 Band Aid sandal syringe
+V 4 Band Aid sandal syringe
+H 3 punching bag punch
+H 5 cucumber cuke zucchini courgette American
+H 3 bow torch maillot
+H 3 punching bag punch
+H 5 seashore coast seacoast sea-coast Boston
+H 5 dumbbell barbell bathtub bathing tub
+H 4 vase necklace pitcher ewer
+H 4 barbell power drill crate
+V 4 maillot balance beam unicycle
+V 5 knee pad maillot racket racquet
+V 4 wooden spoon pencil box
+H 4 maillot brassiere bra bandeau
+H 4 cup coffee mug mortar
+H 5 totem pole stupa tope pedestal
+H 5 wheel candle taper wax light
+V 3 umbrella komondor gown
+V 4 Granny Smith plate broccoli
+V 5 frying pan frypan skillet spatula
+H 5 cucumber cuke zucchini courgette artichoke
+V 5 candle taper wax light broccoli
+H 5 plate soup bowl hot pot
+H 5 chiton coat-of-mail shell sea cradle
+H 5 volleyball broom swab swob mop
+V 3 cup lorikeet strawberry
+H 4 balance beam torch bathtub
+H 3 hatchet umbrella snorkel
+V 5 ladle frying pan frypan skillet
+H 3 hatchet umbrella snorkel
+V 5 maze labyrinth hook claw plastic
+H 5 unicycle monocycle knee pad military
+H 4 jean blue denim neck
+H 5 coil spiral volute whorl helix
+V 4 bathing cap swimming balance
+H 5 window screen analog clock street
+V 4 corn plate grocery store
+H 3 mortar dough guacamole
+H 4 strawberry cucumber cuke corn
+H 3 plate tray fig
+V 4 pomegranate wooden spoon necklace
+H 3 plate tray corn
+H 5 ocarina sweet potato miniskirt mini
+H 5 wooden spoon guacamole cucumber cuke
+H 3 mortar thimble strainer
+V 5 park bench unicycle monocycle diamondback
+H 4 redbone Doberman pinscher Rhodesian
+H 4 maillot tank suit notebook
+H 5 wooden spoon ladle Petri dish
+H 3 umbrella pole bubble
+V 5 barbershop barber chair dishwasher dish
+H 5 clog geta patten sabot tray
+V 5 amphibian amphibious vehicle tank army
+H 4 microwave oven candle taper
+V 5 guacamole hotdog hot dog red
+H 5 sea snake dung beetle conch
+H 4 swimming trunks bathing lakeside
+H 5 gar garfish garpike billfish Lepisosteus
+H 4 reel paddle boat seashore
+H 4 cellular telephone phone cellphone
+H 4 teddy bear cucumber cuke
+V 5 conch hippopotamus hippo river horse
+H 4 dumbbell swimming trunks bathing
+H 4 dumbbell swimming trunks bathing
+H 3 hatchet nail torch
+V 5 sarong sandbar sand bar bikini
+V 4 mountain bike all-terrain off-roader
+V 4 mountain bike all-terrain off-roader
+H 4 lab coat laboratory restaurant
+H 4 mortar cup wooden spoon
+H 4 maraca necklace hair slide
+V 5 espresso beer glass Petri dish
+H 3 acorn guacamole vase
+V 3 necklace chain plate
+V 3 buckle sock mitten

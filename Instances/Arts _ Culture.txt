@@ -1,0 +1,81 @@
+80
+V 5 vault monastery bannister banister balustrade
+H 3 rubber eraser pencil
+H 5 candle taper wax light crayfish
+H 5 candle taper wax light crayfish
+H 4 prison house vault cinema
+H 4 paintbrush rubber eraser pencil
+H 5 bookshop bookstore bookstall library bookcase
+H 4 paintbrush pencil sharpener box
+V 5 Band Aid paintbrush ice lolly
+H 5 banjo hammer panpipe pandean pipe
+V 5 spotlight spot table lamp laptop
+H 4 prison house sliding door
+H 4 prison house theater curtain
+H 4 digital clock prison house
+V 5 tray vase handkerchief hankie hanky
+V 4 wreck pirate ship space
+V 5 coral reef envelope shower curtain
+H 4 umbrella balloon church building
+H 5 promontory headland head foreland seashore
+H 5 promontory headland head foreland ice
+H 5 promontory headland head foreland seashore
+H 5 wig gown breastplate aegis egis
+H 5 maraca king snake kingsnake night
+H 4 torch umbrella parachute chute
+V 5 promontory headland head foreland cliff
+H 4 prison house washer automatic
+H 4 paintbrush indigo bunting finch
+H 4 envelope rubber eraser pencil
+H 3 rubber eraser pencil
+H 3 rubber eraser pencil
+H 5 croquet ball drumstick wooden spoon
+H 5 croquet ball drumstick wooden spoon
+H 4 entertainment center grand piano
+H 4 entertainment center grand piano
+V 5 paintbrush stupa tope liner ocean
+H 3 rubber eraser pencil
+H 5 swab swob mop paintbrush medicine
+H 4 cellular telephone phone cellphone
+H 4 wall clock television system
+V 4 volcano jelly fish matchstick
+V 5 mask sea slug nudibranch sarong
+H 4 shower curtain paintbrush sarong
+V 4 home theater theatre entertainment
+V 4 home theater theatre entertainment
+H 5 sunglasses dark glasses shades jigsaw
+V 4 paintbrush envelope refrigerator icebox
+V 4 pool table billiard snooker
+H 5 paintbrush space shuttle barrel cask
+H 4 television system table lamp
+H 4 vault bell cote cot
+H 5 mousetrap apiary bee house scorpion
+H 5 space heater rule ruler envelope
+H 5 fire screen fireguard cinema movie
+H 4 turnstile medicine chest cabinet
+V 5 sandbar sand bar broom face
+H 5 lakeside lakeshore valley vale seashore
+H 5 dhole Cuon alpinus hay cheetah
+H 5 safety pin thimble coffee mug
+H 4 bathtub bathing tub bath
+H 5 trifle teapot candle taper wax
+V 5 jelly fish fig brain coral
+H 4 medicine chest cabinet paper
+H 5 velvet handkerchief hankie hanky hankey
+V 4 pencil sharpener rubber eraser
+V 4 fountain volcano coral reef
+V 4 velvet sea slug nudibranch
+H 4 gown wig plastic bag
+H 5 crutch folding chair mailbox letter
+H 4 paintbrush rubber eraser pencil
+H 3 padlock wreck crate
+H 4 paintbrush rubber eraser pencil
+H 3 rubber eraser pencil
+H 5 seashore coast seacoast sea-coast promontory
+V 3 envelope packet paintbrush
+H 4 altar throne church building
+V 5 altar plastic bag goldfish Carassius
+H 3 rubber eraser pencil
+V 4 nematode worm roundworm velvet
+V 5 confectionery confectionary candy store toyshop
+V 5 lakeside lakeshore shower curtain fountain

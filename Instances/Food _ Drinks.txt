@@ -1,0 +1,101 @@
+100
+V 5 eggnog ice cream icecream espresso
+V 4 chocolate sauce syrup ice
+V 4 eggnog hair slide plate
+V 5 strawberry buckeye horse chestnut conker
+V 4 cheeseburger bagel beigel mushroom
+V 3 strawberry trifle pomegranate
+V 5 Granny Smith wooden spoon ladle
+V 5 spaghetti squash tailed frog bell
+H 3 necklace strawberry fig
+V 4 Petri dish plate bib
+H 4 baseball grocery store food
+V 5 Petri dish cucumber cuke eft
+V 4 measuring cup beaker eggnog
+V 5 ice cream icecream diaper nappy
+H 4 strawberry pomegranate hair slide
+V 4 chocolate sauce syrup frying
+H 4 pineapple ananas banana corn
+H 5 cheeseburger French loaf bagel beigel
+V 4 goblet red wine pretzel
+V 4 plate menu soup bowl
+V 4 fig rubber eraser pencil
+V 5 plate consomme hot pot hotpot
+V 4 orange lemon hip rose
+V 5 eggnog candle taper wax light
+V 3 trifle cup espresso
+V 3 goblet lemon orange
+V 4 guacamole cucumber cuke plate
+H 5 necklace ocarina sweet potato pick
+V 4 orange lemon butternut squash
+V 5 strawberry ice cream icecream trifle
+V 5 paintbrush plate ice cream icecream
+H 3 lemon orange banana
+V 4 pizza pie frying pan
+H 5 plate cucumber cuke zucchini courgette
+V 4 hip rose rosehip pomegranate
+H 5 soup bowl broccoli mashed potato
+V 5 necklace red wine perfume essence
+V 4 fountain paddle boat fireboat
+H 5 cucumber cuke zucchini courgette artichoke
+V 4 beaker vase pitcher ewer
+H 5 ice cream icecream plate tray
+V 4 plate carbonara pizza pie
+V 5 candle taper wax light strawberry
+V 4 ladle spatula soup bowl
+V 5 cucumber cuke bell pepper banana
+V 4 lemon orange pineapple ananas
+V 4 soup bowl trifle plate
+V 5 pencil sharpener candle taper wax
+V 5 red wine goblet cocktail shaker
+V 4 Granny Smith fig lemon
+H 5 starfish sea star knot coil
+V 4 beer bottle paintbrush pop
+H 5 strawberry handkerchief hankie hanky hankey
+V 4 plate pizza pie menu
+V 4 strawberry pomegranate bell pepper
+H 5 candle taper wax light matchstick
+H 3 acorn nail thimble
+V 5 orange eggnog candle taper wax
+V 5 cup cocktail shaker pitcher ewer
+H 3 pomegranate orange lemon
+V 3 orange ladle goblet
+V 5 tree frog tree-frog plate guacamole
+V 4 American lobster Northern Maine
+V 4 espresso cup coffee mug
+V 5 strawberry butcher shop meat market
+V 3 eggnog trifle cup
+H 4 cauliflower custard apple broccoli
+V 5 coil spiral volute whorl helix
+H 5 ladle hot pot hotpot soup
+H 4 strawberry cucumber cuke corn
+H 4 strawberry grocery store food
+V 3 eggnog bottlecap plate
+V 4 corn pizza pie bottlecap
+V 3 plate carbonara corn
+V 3 lemon orange fig
+V 3 wok ladle espresso
+V 4 pizza pie spatula potpie
+V 5 bakery bakeshop bakehouse pretzel shoe
+H 5 cucumber cuke custard apple grocery
+V 5 buckle frying pan frypan skillet
+V 4 spindle quill pen soup
+H 4 pizza pie rotisserie French
+H 4 corn soup bowl plate
+V 4 plate soup bowl rack
+V 5 French loaf frying pan frypan
+V 5 wok frying pan frypan skillet
+H 5 cheeseburger French loaf hen-of-the-woods hen
+V 4 pop bottle soda beer
+H 5 plate corn hot pot hotpot
+H 5 beer glass perfume essence beaker
+H 4 pop bottle soda beer
+V 5 red wine beaker pop bottle
+V 3 banana conch slug
+V 5 hot pot hotpot plate soup
+H 4 Dutch oven pizza pie
+V 4 pizza pie plate hot
+H 5 pill bottle torch lighter light
+V 4 ice lolly lollipop popsicle
+V 5 eggnog pot flowerpot soup bowl
+H 5 spindle swab swob mop plunger

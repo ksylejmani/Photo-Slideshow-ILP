@@ -1,0 +1,105 @@
+104
+V 5 jersey T-shirt tee shirt sweatshirt
+H 5 spotlight spot library restaurant eating
+H 5 toyshop umbrella streetcar tram tramcar
+V 4 cellular telephone phone cellphone
+V 5 cloak stole wool woolen woollen
+H 5 megalith megalithic structure beacon lighthouse
+V 5 shower cap sombrero cowboy hat
+V 4 fur coat broom cloak
+H 5 hair spray wig Band Aid
+V 3 bolo tie bola
+V 5 jersey T-shirt tee shirt maillot
+H 4 volcano fountain lakeside lakeshore
+H 4 crutch punching bag punch
+V 5 greenhouse nursery glasshouse jersey T-shirt
+H 5 crutch bikini two-piece maillot tank
+H 4 sarong miniskirt mini stage
+H 5 swing golfcart golf cart pier
+V 3 whistle screw ski
+H 5 seashore coast seacoast sea-coast drilling
+H 3 notebook computer laptop
+H 5 jersey T-shirt tee shirt crutch
+H 5 pinwheel balloon worm fence snake
+H 5 lipstick lip rouge Band Aid
+H 5 ocarina sweet potato bubble mask
+H 5 jersey T-shirt tee shirt umbrella
+H 3 abaya cloak sombrero
+V 5 shoji pajama pyjama jammies grand
+V 5 cloak bow tie bow-tie bowtie
+H 3 bow bubble maypole
+H 4 vacuum cleaner sliding door
+H 5 ping-pong ball bobsled bobsleigh bob
+H 4 restaurant eating house place
+H 4 cardigan suit of clothes
+H 4 prison house shoji sliding
+V 5 bow tie bow-tie bowtie stage
+H 4 iPod notebook computer laptop
+H 3 notebook computer laptop
+H 3 notebook computer laptop
+V 4 sweatshirt cardigan notebook computer
+H 5 valley vale lakeside lakeshore cliff
+H 3 notebook computer laptop
+H 5 Arabian camel dromedary Camelus dromedarius
+H 4 flute transverse wheel pajama
+V 5 hair spray sweatshirt lipstick lip
+H 4 streetcar tram tramcar trolley
+V 4 grocery store food market
+V 5 jersey T-shirt tee shirt sweatshirt
+V 5 studio couch day bed window
+H 3 laptop computer notebook
+H 5 cliff drop drop-off stupa tope
+V 5 carton balloon sunglasses dark glasses
+H 5 sliding door groom bridegroom greenhouse
+V 5 sunglasses dark glasses shades iPod
+H 4 maillot tank suit cardigan
+H 5 barber chair gown grocery store
+H 4 bubble stage perfume essence
+H 5 unicycle monocycle crutch jean blue
+H 5 pajama pyjama jammies cloak cowboy
+H 4 cloak fur coat stole
+V 4 barrow garden cart lawn
+H 5 poncho wool woolen woollen wig
+H 3 laptop computer notebook
+V 5 sunglasses dark glasses shades sunscreen
+H 3 notebook computer laptop
+H 5 hair spray candle taper wax
+H 4 laptop computer jigsaw puzzle
+H 4 torch volcano stupa tope
+V 3 bolo tie bola
+H 4 horizontal bar high balance
+H 3 laptop computer notebook
+V 5 Band Aid hair spray bow
+H 4 restaurant eating house place
+V 4 bathtub bathing tub bath
+H 5 sock bath towel Band Aid
+H 4 streetcar tram tramcar trolley
+H 5 sliding door bannister banister balustrade
+H 3 tobacco shop tobacconist
+H 4 restaurant eating house place
+H 4 notebook computer sewing machine
+H 5 school bus cab hack taxi
+H 5 stage streetcar tram tramcar trolley
+H 4 wig cellular telephone phone
+H 4 groom bridegroom gown overskirt
+H 4 library assault rifle gun
+H 3 poncho cardigan stole
+V 4 binoculars field glasses opera
+V 5 maze labyrinth bannister banister balustrade
+V 5 maze labyrinth bannister banister balustrade
+H 4 wig neck brace sunglass
+H 3 stage maypole mortarboard
+H 5 umbrella bannister banister balustrade balusters
+H 5 umbrella bannister banister balustrade balusters
+H 5 crayfish crawfish crawdad crawdaddy maraca
+V 4 coho cohoe salmon blue
+V 5 ladybug ladybeetle lady beetle ladybird
+H 5 bow tie bow-tie bowtie crutch
+H 4 fur coat maypole stole
+H 4 balloon airship dirigible missile
+V 4 teddy bear bonnet poke
+H 5 jigsaw puzzle wheel wool woolen
+H 4 harmonica mouth organ harp
+H 4 harmonica mouth organ harp
+H 5 ski shovel bobsled bobsleigh bob
+V 5 chain saw chainsaw poncho reel

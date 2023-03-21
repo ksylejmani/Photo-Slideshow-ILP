@@ -1,0 +1,94 @@
+93
+H 4 paper towel sock barbershop
+H 4 crossword puzzle bow tie
+H 3 notebook computer laptop
+H 4 laptop computer library notebook
+H 3 laptop computer quill
+H 5 Christmas stocking panpipe pandean pipe
+H 4 desk hamper plate rack
+H 4 barrow garden cart lawn
+H 3 solar dish collector
+H 3 rubber eraser pencil
+H 4 laptop computer window shade
+H 4 laptop computer window shade
+H 3 solar dish collector
+H 4 screen CRT monitor notebook
+V 4 accordion piano squeeze box
+H 5 desk desktop computer radio wireless
+V 5 patio terrace pot flowerpot rocking
+H 4 mouse computer microphone mike
+H 5 bell pepper hair slide broccoli
+H 4 ping-pong ball laptop computer
+H 3 notebook computer laptop
+V 3 mouse computer notebook
+V 5 desk sewing machine paper towel
+H 5 ping-pong ball bobsled bobsleigh bob
+H 3 rubber eraser pencil
+H 3 notebook computer laptop
+H 5 comic book theater curtain theatre
+H 3 notebook computer laptop
+H 3 notebook computer laptop
+H 3 notebook computer laptop
+H 4 flute transverse wheel pajama
+H 5 comic book theater curtain theatre
+H 3 notebook computer laptop
+H 3 laptop computer notebook
+V 5 quilt comforter comfort puff studio
+H 5 airship dirigible stupa tope flagpole
+H 5 violin fiddle acoustic guitar kimono
+V 4 crossword puzzle toilet seat
+H 3 modem cup espresso
+H 5 greenhouse nursery glasshouse pier prison
+H 5 sliding door groom bridegroom greenhouse
+H 5 oboe hautboy hautbois bassoon flute
+V 5 window shade bathtub bathing tub
+H 4 grocery store food market
+H 5 rocking chair rocker dining table
+V 4 marimba xylophone television system
+H 5 window shade dining table board
+H 5 studio couch day bed rocking
+H 4 rocking chair rocker notebook
+H 3 laptop computer notebook
+H 3 notebook computer laptop
+H 3 laptop computer notebook
+H 5 miniskirt mini stage golfcart golf
+H 5 desk barber chair violin fiddle
+H 4 laptop computer jigsaw puzzle
+H 3 laptop computer notebook
+H 4 monitor home theater theatre
+H 4 restaurant eating house place
+H 3 laptop computer notebook
+H 3 laptop computer notebook
+H 3 notebook computer laptop
+H 3 notebook computer hand-held
+H 4 fountain pen rubber eraser
+H 5 computer keyboard keypad abacus notebook
+H 5 refrigerator icebox carton crossword puzzle
+H 3 notebook computer laptop
+H 4 monitor desktop computer notebook
+H 3 notebook computer laptop
+H 3 notebook computer mouse
+H 3 notebook computer laptop
+H 5 photocopier groom bridegroom hand blower
+H 4 parallel bars bannister banister
+V 4 carton mortarboard ice lolly
+V 3 laptop computer notebook
+H 5 neck brace microphone mike punching
+V 3 crossword puzzle notebook
+V 3 crossword puzzle notebook
+H 4 chainlink fence church building
+H 5 birdhouse padlock doormat welcome mat
+H 3 notebook computer mouse
+H 3 notebook computer laptop
+H 5 wool woolen woollen doormat welcome
+H 5 studio couch day bed grand
+H 3 laptop computer notebook
+V 4 laptop computer monitor screen
+H 4 turnstile maze labyrinth stove
+V 4 laptop computer accordion piano
+V 4 laptop computer accordion piano
+H 4 laptop computer turnstile jigsaw
+H 4 laptop computer turnstile jigsaw
+V 3 crossword puzzle laptop
+V 3 crossword puzzle laptop
+H 3 notebook computer laptop

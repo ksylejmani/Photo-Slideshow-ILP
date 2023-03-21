@@ -1,0 +1,133 @@
+132
+H 5 mushroom bubble ear spike capitulum
+H 3 bee daisy weevil
+H 4 daisy rapeseed chainlink fence
+V 4 lakeside lakeshore snowmobile volcano
+V 3 eggnog goblet spoonbill
+H 5 sea slug nudibranch paper towel
+H 5 chainlink fence head cabbage greenhouse
+V 5 vase pot flowerpot hair slide
+V 5 seashore coast seacoast sea-coast sandbar
+H 5 seashore coast seacoast sea-coast sandbar
+H 4 volcano alp valley vale
+V 5 vase ant emmet pismire bell
+V 5 valley vale promontory headland head
+V 5 geyser cliff drop drop-off valley
+V 4 volcano radio telescope reflector
+V 3 alp volcano wreck
+H 4 hay rapeseed golf ball
+H 3 rapeseed hay broom
+H 4 flamingo barn parachute chute
+V 4 balloon parachute chute maraca
+V 5 warplane military plane conch hummingbird
+V 5 seashore coast seacoast sea-coast sea
+H 4 rapeseed barn beacon lighthouse
+H 4 rapeseed barn soccer ball
+H 5 seashore coast seacoast sea-coast cliff
+V 4 paddle boat lakeside lakeshore
+H 5 valley vale dam dike dyke
+H 5 picket fence paling vase ant
+V 5 alp valley vale breakwater groin
+H 5 vine snake golf ball coil
+V 5 promontory headland head foreland lakeside
+H 4 lakeside lakeshore geyser canoe
+H 5 head cabbage velvet maze labyrinth
+H 4 beacon lighthouse light pharos
+V 5 lakeside lakeshore chain seashore coast
+V 3 howler monkey spider
+H 5 boathouse alp dam dike dyke
+H 5 alp valley vale lakeside lakeshore
+V 5 park bench lakeside lakeshore worm
+H 3 bubble stage fountain
+V 5 lakeside lakeshore valley vale alp
+V 5 bow tie bow-tie bowtie stole
+V 4 artichoke globe sulphur butterfly
+H 4 valley vale alp volcano
+H 5 alp lakeside lakeshore jelly fish
+V 5 volcano king penguin Aptenodytes patagonica
+H 3 volcano rapeseed alp
+H 5 valley vale megalith megalithic structure
+V 5 valley vale alp tile roof
+H 5 lakeside lakeshore seashore coast seacoast
+H 4 lakeside lakeshore rapeseed hay
+H 5 alp volcano breakwater groin groyne
+H 5 suspension bridge park bench fountain
+V 4 pizza pie cauliflower butcher
+V 4 bubble umbrella jelly fish
+H 5 promontory headland head foreland sandbar
+V 5 flatworm platyhelminth sea cucumber holothurian
+V 5 lakeside lakeshore geyser valley vale
+V 5 seashore coast seacoast sea-coast alp
+H 5 coral reef gar garfish garpike
+H 4 rapeseed worm fence snake
+H 5 fountain dam dike dyke valley
+H 4 valley vale alp canoe
+H 5 head cabbage pot flowerpot greenhouse
+V 3 hay castle alp
+H 5 lakeside lakeshore rapeseed maze labyrinth
+V 5 megalith megalithic structure park bench
+V 4 valley vale volcano viaduct
+V 5 lakeside lakeshore promontory headland head
+H 5 alp valley vale mountain tent
+H 5 buckeye horse chestnut conker ox
+H 4 beacon lighthouse light pharos
+V 5 volcano promontory headland head foreland
+V 4 chainlink fence bubble dome
+V 4 boathouse church building pier
+H 3 volcano barn fountain
+H 5 lakeside lakeshore promontory headland head
+H 4 barn rapeseed lakeside lakeshore
+H 5 seashore coast seacoast sea-coast lakeside
+H 5 valley vale lakeside lakeshore alp
+H 5 alp valley vale promontory headland
+V 5 valley vale alp lakeside lakeshore
+V 4 grey whale gray devilfish
+H 5 lakeside lakeshore seashore coast seacoast
+H 5 sandbar sand bar seashore coast
+H 4 mountain tent alp volcano
+H 4 valley vale alp volcano
+H 5 lakeside lakeshore valley vale cliff
+V 5 fountain valley vale spotlight spot
+H 4 cliff dwelling drop drop-off
+V 5 lakeside lakeshore boathouse valley vale
+V 4 fountain geyser valley vale
+H 5 valley vale volcano mountain tent
+V 5 parachute chute warplane military plane
+V 4 hip rose rosehip hummingbird
+H 5 fountain park bench spider web
+H 5 alp valley vale lakeside lakeshore
+H 4 alp valley vale barn
+H 4 valley vale alp castle
+V 4 wing volcano parachute chute
+H 4 jacamar bee eater hummingbird
+H 5 alp valley vale lakeside lakeshore
+H 5 lakeside lakeshore car mirror pole
+H 5 alp valley vale mountain bike
+V 3 canoe boathouse wreck
+V 5 lakeside lakeshore valley vale sandbar
+V 5 tennis ball mud turtle night
+V 3 partridge ptarmigan magpie
+H 5 alp mountain tent lakeside lakeshore
+V 4 pot flowerpot damselfly lemon
+H 4 lakeside lakeshore canoe fountain
+V 5 breakwater groin groyne mole bulwark
+V 5 seashore coast seacoast sea-coast sandbar
+H 5 volcano starfish sea star castle
+H 5 park bench fountain groom bridegroom
+H 5 seashore coast seacoast sea-coast lakeside
+H 5 alp valley vale cliff drop
+H 4 volcano geyser valley vale
+H 4 volcano alp parachute chute
+H 4 rapeseed valley vale hay
+H 5 cliff drop drop-off fountain valley
+V 5 valley vale rapeseed stone wall
+H 5 seashore coast seacoast sea-coast lakeside
+H 5 seashore coast seacoast sea-coast sandbar
+H 5 greenhouse nursery glasshouse park bench
+H 4 coral reef monarch butterfly
+H 5 promontory headland head foreland cliff
+H 5 bannister banister balustrade balusters handrail
+V 3 volcano geyser wing
+V 3 volcano geyser alp
+H 5 rapeseed stone wall worm fence
+H 5 maze labyrinth valley vale castle

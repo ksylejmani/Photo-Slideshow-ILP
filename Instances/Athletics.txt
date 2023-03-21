@@ -1,0 +1,85 @@
+84
+V 5 parachute chute horse cart horse-cart
+V 4 forklift punching bag punch
+H 5 soccer ball honeycomb punching bag
+V 5 shopping cart horizontal bar high
+V 4 horizontal bar high basketball
+H 4 spider web golf ball
+H 4 balance beam racket racquet
+V 4 soccer ball golf ping-pong
+H 5 alp promontory headland head foreland
+V 4 soccer ball golf ashcan
+H 5 fountain geyser seashore coast seacoast
+V 4 swimming trunks bathing seashore
+V 5 soccer ball running shoe rugby
+H 3 screwdriver totem pole
+H 5 maze labyrinth racket racquet sundial
+H 5 football helmet basketball horizontal bar
+V 4 soccer ball bottlecap rugby
+V 4 pencil box case purse
+H 4 soccer ball ping-pong volleyball
+V 5 maze labyrinth hook claw plastic
+H 5 maze labyrinth racket racquet sundial
+H 5 sundial doormat welcome mat street
+H 5 bow chime bell gong chain
+V 5 window shade freight car mailbox
+H 3 basketball volleyball torch
+V 5 maze labyrinth tennis ball fountain
+H 5 soccer ball volleyball football helmet
+H 5 rugby ball ballplayer baseball player
+H 4 harmonica mouth organ harp
+V 4 mountain bike all-terrain off-roader
+H 4 golf ball tennis croquet
+V 4 soccer ball rugby ballplayer
+H 5 wallet billfold notecase pocketbook ping-pong
+H 4 soccer ball rugby golf
+H 4 soccer ball rugby golf
+H 4 balance beam knee pad
+V 4 soccer ball rugby football
+H 4 stage fountain beer bottle
+V 4 ballplayer baseball player soccer
+H 5 maze labyrinth sundial coil spiral
+H 5 paintbrush plunger helper swimming trunks
+H 4 soccer ball golf rugby
+V 4 soccer ball rugby ballplayer
+V 4 stage pool table billiard
+V 4 cinema movie theater theatre
+H 4 soccer ball golf rugby
+V 5 amphibian amphibious vehicle paddle boat
+H 4 soccer ball rugby parachute
+H 4 soccer ball rugby volleyball
+H 4 volleyball rugby ball pole
+H 5 maze labyrinth racket racquet tennis
+H 5 basketball maillot tank suit rugby
+H 5 seashore coast seacoast sea-coast sandbar
+V 4 basketball rugby ball snail
+V 4 basketball rugby ball snail
+V 5 garden spider Aranea diademata tick
+H 5 chainlink fence tennis ball soccer
+H 4 volleyball swimming trunks bathing
+H 4 volleyball swimming trunks bathing
+V 5 football helmet horizontal bar high
+V 5 football helmet horizontal bar high
+V 4 cliff dwelling sarong drop
+H 4 maillot tank suit swimming
+H 4 scoreboard puck hockey ballplayer
+V 5 ballplayer baseball player shovel pool
+H 4 rugby ball soccer football
+V 5 chainlink fence suspension bridge tennis
+H 4 vacuum cleaner tennis ball
+V 5 stage cockroach roach plow plough
+V 4 volleyball torch unicycle monocycle
+H 5 ballplayer baseball player rugby ball
+H 4 maypole sundial aircraft carrier
+H 5 football helmet rugby ball soccer
+H 5 rugby ball volleyball swimming trunks
+H 5 rugby ball volleyball swimming trunks
+H 5 fountain racer race car racing
+V 4 mountain bike all-terrain off-roader
+H 4 spider web fountain dam
+H 4 soccer ball golf football
+V 5 maze labyrinth sundial manhole cover
+V 5 ballplayer baseball player doormat welcome
+H 5 racket racquet bow tennis ball
+H 5 football helmet rugby ball stretcher
+H 4 unicycle monocycle tripod umbrella

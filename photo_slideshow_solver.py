@@ -111,7 +111,7 @@ class PhotoSlideShow:
         max_index=max(t)
         return (min_index,max_index)
 
-    def create_GORT_model(self):
+    def create_GORT_model(self, time_interval):
         """Google OR Tools model"""
         solver=pywraplp.Solver.CreateSolver('BOP')
 
@@ -123,12 +123,6 @@ class PhotoSlideShow:
                     z[(i, j)] = solver.BoolVar(name='z' + str(i)+ ',' + str(j))
         
         # Constraints
-        for sp in self.same_photos:
-            i = sp[0]
-            j = sp[1]
-            solver.Add(sum(sum(z[(a, b)] for b in range(self.N) 
-                if b != a and ((a == i and b == j) or (a == j or b == i))) 
-                for a in range(self.N)) <= 0, name='same photos')
         
         for i in range(self.N ):
             solver.Add(sum(z[(i, j)] for j in range(self.N) if j != i) <= 1,
@@ -143,25 +137,32 @@ class PhotoSlideShow:
                 if i!=j:
                     solver.Add(z[(i,j)]+z[(j,i)] <= 1, name='no two simetric transitions are allowed')
         
+        solver.Add(sum(z[(i, j)] for (i,j) in ps.same_photos) <= 0, name='same photos')
+        
+       
+        solver.Add(sum(sum(z[(i, j)] for j in range(self.H,self.N) if j != i) 
+                       for i in range(self.H,self.N))<= int(self.V/2)-1, name='max vertical slides')
+        
+        solver.Add(sum(sum(z[(i, j)] for j in range(self.N) if j != i) 
+                       for i in range(self.N))<= self.H+int(self.V/2)-1, name='max total slides')
+
         for k in range(self.H):
             s1=sum(z[(k,i)] for i in range(self.H) if i!=k)
             s2=sum(z[(i,k)] for i in range(self.H) if i!=k)
             solver.Add(s1+s2<= 2, name='each slide is used in at most one transition')
         
         solver.Maximize(sum(sum(z[(i, j)]* self.transition_interest[self.transform_tuple((i, j))] 
-                        for j in range(self.N) if j != i) for i in range(self.N)))
-        
-        # Sets a time limit of 10 seconds.
-        # solver.parameters.max_time_in_seconds = 30.0
-        solver.SetTimeLimit(2000)
+                            for j in range(self.N) if j != i) for i in range(self.N)))
+        solver.SetTimeLimit(time_interval*1000)
         solver.EnableOutput()
         status=solver.Solve()
 
         if status == pywraplp.Solver.OPTIMAL:
             print('Solution:')
-            print('Objective value =', solver.Objective().Value())
+            print('Optimal value =', solver.Objective().Value())
         else:
-            print('The problem does not have an optimal solution.')  
+            print('The problem does not have an optimal solution.')
+            print('Objective value =', solver.Objective().Value())
         
         for i in range(self.N):
             for j in range(self.N):
@@ -266,31 +267,32 @@ class PhotoSlideShow:
 def help_function():
     """Define help function"""
     print("The solver should be callde usign the command 'python photo_slideshow_solver.py instance_name.txt'")
-    print("Example: python photo_slideshow_solver.py c_memorable_moments_50.txt")
+    print("Example: python photo_slideshow_solver.py Animals.txt 600")
 
 if __name__=="__main__":
     """ Create an instance of the model and solve the problem"""
     arguments=sys.argv
-    if len(arguments)!=2:
+    if len(arguments)!=3:
         help_function()
         exit()
     else:
         file_name = arguments[1]
+        time_interval=int(arguments[2])
         ps=PhotoSlideShow(file_name)
+        # Googl OR Tools
+        model=ps.create_GORT_model(time_interval)
         
         # Gurobi model
         # model=ps.create_model()
         # objective_value=ps.solve_problem(model)
         # print("Objective value:: "+str(objective_value))
-        
-
-        # Googl OR Tools
-        model=ps.create_GORT_model()
+    
 
 
-    # file_name = "P50_H0_V50.txt"
+    # file_name = "P50_H25_V25.txt"
+
     # ps=PhotoSlideShow(file_name)
-    # model=ps.create_model()
+    # model=ps.create_GORT_model(time_interval)
     # objective_value=ps.solve_problem(model)
     # print("Solution quality: "+str(objective_value))
 

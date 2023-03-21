@@ -1,0 +1,101 @@
+100
+H 5 flamingo black stork Ciconia nigra
+V 5 red fox Vulpes vulpes dhole
+V 4 Labrador retriever beagle laptop
+V 5 llama sea slug nudibranch puffer
+V 4 ibex Capra whippet bighorn
+H 5 African elephant Loxodonta africana tusker
+V 4 ibex Capra gazelle impala
+H 4 black-footed ferret Mustela nigripes
+V 3 indigo bunting finch
+H 3 fox squirrel eastern
+V 5 zebra lionfish puffer pufferfish blowfish
+H 4 ice bear polar Ursus
+H 3 hammerhead shark tiger
+H 4 macaw anemone fish toucan
+V 4 flamingo knot nematode worm
+H 5 Arabian camel dromedary Camelus dromedarius
+H 4 malinois bloodhound sleuthhound hartebeest
+H 4 loggerhead turtle Caretta caretta
+V 5 cheetah chetah Acinonyx jubatus leopard
+H 3 magpie ox missile
+H 5 sorrel lion king of beasts
+H 5 hartebeest impala Aepyceros melampus ibex
+V 3 Egyptian cat tabby
+H 5 lion king of beasts Panthera
+H 4 Persian cat Egyptian tabby
+H 4 Walker hound foxhound English
+H 5 albatross mollymawk cliff drop drop-off
+V 4 bee eater indigo bunting
+H 5 lion king of beasts Panthera
+H 4 scuba diver volcano barn
+H 4 Saluki gazelle hound Ibizan
+V 5 polecat fitch foulmart foumart Mustela
+H 3 drake goose dowitcher
+H 4 bald eagle American Haliaeetus
+H 3 giant panda bear
+H 4 sea lion conch slug
+V 5 Chihuahua French bulldog toy terrier
+H 5 megalith megalithic structure African elephant
+V 5 gazelle impala Aepyceros melampus ibex
+H 5 cougar puma catamount mountain lion
+H 5 red fox Vulpes vulpes kit
+V 4 tiger Panthera tigris cat
+H 5 bison African elephant Loxodonta africana
+H 5 jaguar panther Panthera onca Felis
+H 4 Weimaraner Labrador retriever muzzle
+H 5 bee hummingbird tree frog tree-frog
+V 4 ibex Capra hare ram
+V 5 lion king of beasts Panthera
+H 5 cheetah chetah Acinonyx jubatus hyena
+V 4 Ibizan hound Podenco dingo
+V 5 dhole Cuon alpinus lynx catamount
+H 5 gazelle impala Aepyceros melampus llama
+V 3 koala bear kangaroo
+H 5 lion king of beasts Panthera
+H 5 sorrel dingo warrigal warragal Canis
+H 4 conch great grey owl
+V 5 lion king of beasts Panthera
+V 3 leatherback turtle leathery
+V 5 lion king of beasts Panthera
+H 5 lorikeet macaw wool woolen woollen
+H 5 African elephant Loxodonta africana tusker
+H 3 common iguana Iguana
+H 4 jacamar bee eater hummingbird
+H 5 Great Dane American Staffordshire terrier
+H 4 hay worm fence snake
+H 4 bighorn sheep cimarron Rocky
+H 4 coyote prairie wolf brush
+H 4 ram tup oxcart bighorn
+H 5 lion king of beasts Panthera
+H 3 fox squirrel eastern
+H 5 cougar puma catamount mountain lion
+V 4 muzzle Doberman pinscher sorrel
+H 4 ram tup bighorn sheep
+V 5 African elephant Loxodonta africana Indian
+V 5 hog pig grunter squealer Sus
+V 5 lion king of beasts Panthera
+H 5 cougar puma catamount mountain lion
+H 5 tusker Indian elephant Elephas maximus
+H 4 ibex Capra hartebeest impala
+V 5 lynx catamount tiger cat Egyptian
+H 5 lion king of beasts Panthera
+V 5 lion king of beasts Panthera
+H 3 giant panda bear
+H 5 red fox Vulpes vulpes kit
+H 5 ox Great Dane Walker hound
+V 4 ox ram tup oxcart
+H 5 Eskimo dog husky malamute malemute
+V 5 zebra impala Aepyceros melampus goose
+H 5 Egyptian cat lynx catamount tiger
+H 4 English foxhound Appenzeller basenji
+H 5 zebra ostrich Struthio camelus tusker
+V 4 tiger Panthera tigris cat
+H 3 common iguana Iguana
+V 5 king penguin Aptenodytes patagonica red-breasted
+H 5 red fox Vulpes vulpes kit
+H 3 fox squirrel eastern
+V 5 cheetah chetah Acinonyx jubatus Arabian
+H 5 German short-haired pointer Weimaraner Doberman
+H 5 sorrel bison Arabian camel dromedary
+V 5 tusker Indian elephant Elephas maximus

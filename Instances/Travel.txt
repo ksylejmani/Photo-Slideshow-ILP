@@ -1,0 +1,101 @@
+100
+H 5 ant emmet pismire radiator doormat
+H 5 dock dockage docking facility aircraft
+H 5 cannon cloak backpack back pack
+V 5 hermit crab platypus duckbill duckbilled
+V 4 suspension bridge church building
+H 5 drilling platform offshore rig flagpole
+V 4 binoculars field glasses opera
+H 5 mountain tent parachute chute umbrella
+H 3 gondola monastery palace
+H 4 sturgeon coho cohoe salmon
+V 4 stupa tope palace monastery
+V 4 wing sunglass car mirror
+H 5 purse wallet billfold notecase pocketbook
+H 5 wing car mirror warplane military
+H 4 balloon jelly fish maraca
+H 4 book jacket dust cover
+V 4 balloon parachute chute maraca
+H 5 sandbar sand bar sunglass lakeside
+V 4 canoe quill pen paddle
+V 4 horizontal bar high pole
+V 5 hourglass wing lampshade lamp shade
+V 5 acoustic guitar stole violin fiddle
+V 5 wok frying pan frypan skillet
+V 4 gondola lakeside lakeshore palace
+V 5 space shuttle warplane military plane
+H 5 suspension bridge viaduct steel arch
+H 4 jeep landrover alp balloon
+H 4 flute transverse organ pipe
+V 5 valley vale cliff drop drop-off
+H 5 cliff dwelling dam dike dyke
+V 5 stopwatch stop watch magnetic compass
+H 5 passenger car coach carriage streetcar
+V 5 promontory headland head foreland cliff
+V 5 seashore coast seacoast sea-coast sandbar
+H 5 alp stupa tope cliff drop
+H 5 jeep landrover snowplow snowplough trailer
+V 5 seashore coast seacoast sea-coast speedboat
+V 5 nail warplane military plane birdhouse
+V 5 promontory headland head foreland cliff
+H 5 bottlecap binoculars field glasses opera
+H 5 mailbox letter box barrow garden
+H 4 wing space shuttle airliner
+V 5 sandbar sand bar seashore coast
+H 4 crossword puzzle bookshop bookstore
+V 5 boathouse lakeside lakeshore sea lion
+H 5 alp valley vale lakeside lakeshore
+H 4 pole microphone mike wreck
+H 5 cab hack taxi taxicab motor
+H 5 pot flowerpot patio terrace cannon
+V 3 schooner reel paintbrush
+H 3 wing airliner missile
+H 5 handkerchief hankie hanky hankey tray
+H 5 steel arch bridge pier dam
+V 3 great white shark
+H 5 cliff drop drop-off seashore coast
+H 5 alp promontory headland head foreland
+V 5 sea slug nudibranch wreck banded
+H 5 cliff drop drop-off cellular telephone
+H 5 pier steel arch bridge dam
+V 5 volcano lakeside lakeshore mountain tent
+H 5 cliff drop drop-off stupa tope
+H 4 hand blower blow dryer
+H 4 thatch thatched roof church
+V 4 mountain bike all-terrain off-roader
+H 5 cliff drop drop-off promontory headland
+H 4 alp valley vale volcano
+H 5 cliff drop drop-off valley vale
+H 4 fireboat volcano aircraft carrier
+V 5 buckle binoculars field glasses opera
+H 4 canoe alp paddle boat
+V 4 safety pin mousetrap screwdriver
+H 5 car mirror binoculars field glasses
+H 3 packet paintbrush birdhouse
+V 5 window shade plastic bag picket
+V 4 beacon lighthouse light pharos
+H 4 reflex camera lens cap
+H 3 volcano alp geyser
+H 5 passenger car coach carriage parking
+V 4 gondola prison house cloak
+H 5 jeep landrover trailer truck tractor
+H 5 shower curtain measuring cup handkerchief
+H 5 promontory headland head foreland seashore
+H 4 gondola prison house palace
+V 3 loupe switch electric
+H 4 chest kit tool safe
+H 5 sea snake scuba diver fountain
+H 5 lakeside lakeshore valley vale alp
+V 4 parachute chute geyser wing
+V 4 canoe fountain lakeside lakeshore
+V 5 patio terrace greenhouse nursery glasshouse
+H 3 snorkel alp speedboat
+H 5 seashore coast seacoast sea-coast alp
+H 4 electric locomotive prison house
+H 5 alp promontory headland head foreland
+V 5 space shuttle missile parachute chute
+H 5 minibus jeep landrover recreational vehicle
+H 3 palace monastery castle
+H 5 fountain geyser cliff drop drop-off
+H 4 tow truck car wrecker
+V 4 mountain tent wreck volcano

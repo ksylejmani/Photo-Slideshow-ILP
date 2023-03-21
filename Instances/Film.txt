@@ -1,0 +1,94 @@
+93
+H 5 cliff drop drop-off picket fence
+H 4 television system home theater
+H 5 reflex camera combination lock tripod
+V 5 space shuttle chain saw chainsaw
+V 5 park bench ashcan trash can
+V 4 notebook computer balloon Band
+V 5 measuring cup odometer hodometer mileometer
+V 4 iPod notebook computer web
+V 4 entertainment center television system
+V 4 entertainment center television system
+V 4 lens cap cover reflex
+V 4 digital clock iPod analog
+V 3 notebook computer printer
+V 4 sandal running shoe knot
+H 4 cinema movie theater theatre
+H 4 remote control cellular telephone
+H 4 theater curtain theatre cinema
+H 4 cinema movie theater theatre
+H 5 snorkel hook claw plunger helper
+H 3 stage geyser volcano
+H 5 digital clock book jacket dust
+V 5 digital clock scoreboard cinema movie
+H 5 neck brace Band Aid scoreboard
+H 5 digital clock book jacket dust
+V 5 water tower lakeside lakeshore traffic
+H 5 knot coil spiral volute whorl
+H 4 gas pump gasoline petrol
+V 4 notebook computer grand piano
+H 3 reflex camera Polaroid
+V 5 shopping basket hair slide coil
+V 3 castle palace monastery
+H 5 gasmask respirator gas helmet binoculars
+H 5 knot coil spiral volute whorl
+V 5 perfume essence spotlight spot pool
+H 5 knot coil spiral volute whorl
+H 5 revolver six-gun six-shooter parachute chute
+H 3 switch electric electrical
+V 4 theater curtain theatre cinema
+H 4 magnetic compass iron smoothing
+V 5 slot one-armed bandit cinema movie
+H 4 sea snake sandal loupe
+H 4 magnetic compass iron smoothing
+V 5 necklace hair slide jigsaw puzzle
+H 4 theater curtain theatre stage
+V 5 castle fountain pedestal plinth footstall
+H 3 toyshop mask kimono
+H 5 sunscreen sunblock sun blocker assault
+H 4 cassette cellular telephone phone
+H 5 pier dock dockage docking facility
+H 4 home theater theatre cinema
+H 4 Christmas stocking television system
+H 4 Christmas stocking television system
+V 4 church building dome palace
+V 4 lens cap cover drilling
+H 5 panpipe pandean pipe syrinx balloon
+H 4 cinema movie theater theatre
+V 4 projectile missile snowplow snowplough
+H 5 bobsled bobsleigh bob bow oscilloscope
+H 5 sewing machine bulletproof vest holster
+V 4 spotlight spot traffic light
+H 5 syringe rule ruler revolver six-gun
+V 4 spotlight spot stage planetarium
+H 5 steam locomotive projector sewing machine
+V 5 amphibian amphibious vehicle bassoon military
+H 4 shower cap spatula kimono
+H 5 projector sewing machine spotlight spot
+V 5 crayfish crawfish crawdad crawdaddy cockroach
+H 5 spotlight spot projector traffic light
+V 3 tobacco shop tobacconist
+H 4 cinema movie theater theatre
+H 4 stage fountain digital clock
+H 4 theater curtain theatre stage
+H 5 projector binoculars field glasses opera
+H 5 pay-phone pay-station electric guitar padlock
+H 4 analog clock sundial wall
+H 4 cinema movie theater theatre
+V 4 dough bagel beigel corn
+H 3 indigo bunting finch
+H 4 assault rifle gun chain
+V 3 rifle projectile missile
+H 5 reflex camera oscilloscope scope cathode-ray
+H 5 crane harvester reaper reflex camera
+H 5 reflex camera projector assault rifle
+V 4 theater curtain theatre letter
+H 4 stage cinema movie theater
+H 4 web site website internet
+V 5 jigsaw puzzle comic book web
+H 4 projector switch electric electrical
+H 4 cinema movie theater theatre
+V 5 fireboat drilling platform offshore rig
+H 5 radiator quilt comforter comfort puff
+V 4 stage electric guitar fountain
+H 3 packet bottlecap cradle
